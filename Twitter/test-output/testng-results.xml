@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5092" started-at="2019-10-16T11:34:14Z" finished-at="2019-10-16T11:34:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5092" started-at="2019-10-16T11:34:14Z" finished-at="2019-10-16T11:34:19Z">
+      <class name="Sample.Twitter_Search">
+        <test-method status="PASS" signature="searchtweet()[pri:0, instance:Sample.Twitter_Search@6eebc39e]" name="searchtweet" duration-ms="5033" started-at="2019-10-16T17:04:14Z" finished-at="2019-10-16T17:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtweet -->
+      </class> <!-- Sample.Twitter_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
